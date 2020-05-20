@@ -1,6 +1,6 @@
 import React from 'react'
-import CcForm from '../lib'
+import SomeComponent from '../lib'
 
-const App = () => <CcForm />
+const App = () => <SomeComponent />
 
 export default App

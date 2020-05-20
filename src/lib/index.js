@@ -1,3 +1,3 @@
-import CcForm from './ccForm'
+import SomeComponent from './someComponent'
 
-export default CcForm
+export default SomeComponent
