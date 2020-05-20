@@ -1,6 +1,6 @@
 ### development
 - all component development done in src/lib
-- test component via src/index.js
+- test component import / display via src/index.js
 ```
 npm i
 npm start
