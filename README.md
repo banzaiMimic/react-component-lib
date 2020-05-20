@@ -7,8 +7,6 @@ npm start
 ```
 
 ### publishing
-linux
-`npm run build`
-windows 10
-`npm run buildWin`
+- linux `npm run build`
+- windows 10 `npm run buildWin`
 - this will compile all modules in src/lib into /dist for npm package deploy
