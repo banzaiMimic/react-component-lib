@@ -1,12 +1,13 @@
 ### development
 - all component development done in src/lib
-- test component import / display via src/index.js
+- local dev via src/index.js (yarn start)
+- export all your components from src/lib/index.js for dist
 ```
-npm i
-npm start
+yarn
+yarn start
 ```
 
 ### publishing
-- linux `npm run build`
-- windows 10 `npm run buildWin`
+- linux `yarn build`
+- windows 10 `yarn buildWin`
 - this will compile all modules in src/lib into /dist for npm package deploy

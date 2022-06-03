@@ -1,12 +1,10 @@
 import React from 'react'
 
-class SomeComponent extends React.Component {
+const SomeComponent = () => {
 
-  render() {
-    return (
-      <p>SomeComponent | hello world</p>
-    )
-  }
+  return (
+    <p>SomeComponent | hello world</p>
+  )
 
 }
 
